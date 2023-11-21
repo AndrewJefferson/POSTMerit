@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Raleway:ital@0;1&display=swap');
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #c3f0ff;
+    font-weight: 400;
+    margin: 0px;
+    text-align: center;
+}
+
+main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 54px;
+    color: #1b748b;
+    font-family: 'Chewy', cursive;
+}
+
+h2 {
+    color:#2ac0e6;
+    font-family: 'Chewy', cursive;
+}
+
+footer {
+    background-color: #1b748b;
+    color:white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+nav {
+    font-size: 28px;
+}
+
+#main_image {
+    width: 100%;
+}
+
+.icon {
+    margin-top: 40px;
+    width: 130px;
+}
